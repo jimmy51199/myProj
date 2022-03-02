@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943657615341",
+    "project_id": "jimmy-8a16d",
+    "storage_bucket": "jimmy-8a16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943657615341:android:c9bb9b8989ac5c577071e4",
+        "android_client_info": {
+          "package_name": "com.Jimmy.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943657615341-bdmkmjgttqqmt5ld6v2pkipnl531053k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6wUzdaXXa1ShDSzmrA_8Te-NVIfYR4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943657615341-bdmkmjgttqqmt5ld6v2pkipnl531053k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
